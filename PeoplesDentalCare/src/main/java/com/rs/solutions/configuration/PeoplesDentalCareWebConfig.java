@@ -4,6 +4,9 @@ import org.springframework.web.servlet.support.AbstractAnnotationConfigDispatche
 
 public class PeoplesDentalCareWebConfig extends AbstractAnnotationConfigDispatcherServletInitializer {
 
+
+
+
 	@Override
 	protected Class<?>[] getRootConfigClasses() {
 		// TODO Auto-generated method stub
